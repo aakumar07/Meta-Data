@@ -1,0 +1,9 @@
+mata-data.sh: line 25: warning: here-document at line 17 delimited by end-of-file (wanted `EOF')
+{
+  "instance_id": "i-0f6d5036cd0b585a9",
+  "instance_type": "t2.micro",
+  "public_ip": "3.95.56.177",
+  "private_ip": "172.31.25.223",
+  "ami_id": "ami-0166fe664262f664c",
+  "region": "us-east-1"
+}
